@@ -89,7 +89,6 @@ public class AuthManager{
         } catch {
             print(error)
             completion(false)
-            
             return
         }
     }

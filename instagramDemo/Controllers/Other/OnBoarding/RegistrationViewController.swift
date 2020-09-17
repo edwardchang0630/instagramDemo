@@ -153,6 +153,7 @@ UIViewController {
             DispatchQueue.main.async {
                  if register{
                                //good to go
+                    self.dismiss(animated: true, completion:nil)
                                
                            }else{
                                //fail

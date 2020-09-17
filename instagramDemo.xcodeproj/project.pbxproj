@@ -189,11 +189,11 @@
 		0CB3D23024FE4B6400042E0F /* General */ = {
 			isa = PBXGroup;
 			children = (
+				0C760EFD24FA400600AE3A11 /* SettingViewController.swift */,
 				0C760EF924FA3FA500AE3A11 /* PostViewController.swift */,
 				0C760F0324FA408E00AE3A11 /* SearchResultViewController.swift */,
 				0C760EFB24FA3FE500AE3A11 /* EditProfileViewController.swift */,
 				0C760F0124FA406800AE3A11 /* SearchViewController.swift */,
-				0C760EFD24FA400600AE3A11 /* SettingViewController.swift */,
 				0C760F0524FA40DA00AE3A11 /* PostEditorViewController.swift */,
 				0C760EFF24FA402F00AE3A11 /* ListViewController.swift */,
 				0C760F0724FA411600AE3A11 /* PublishPostViewController.swift */,

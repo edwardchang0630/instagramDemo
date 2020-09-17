@@ -198,7 +198,7 @@ class LoginViewController: UIViewController {
         //隱藏鍵盤
         passwordField.resignFirstResponder()
         userNameEmailField.resignFirstResponder()
-        guard let usernameEmail = userNameEmailField.text, !usernameEmail.isEmpty, let password = passwordField.text, !password.isEmpty,password.count>8 else{
+        guard let usernameEmail = userNameEmailField.text, !usernameEmail.isEmpty, let password = passwordField.text, !password.isEmpty,password.count>=8 else{
             return
         }
         //login functionality
