@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>820611596567-jubiphf05blmllajh0jqrc4supi6nju5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.820611596567-jubiphf05blmllajh0jqrc4supi6nju5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>820611596567-nmdoln90o60ounta01ul59sq76fscasu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTtFNmKd7Ghjt9FTE7DE8yqQSn0uRnISk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820611596567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>class.ep101.instagramDemo</string>
+	<key>PROJECT_ID</key>
+	<string>shunel-e543b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shunel-e543b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820611596567:ios:88da5886819c4c1b753752</string>
+	<key>DATABASE_URL</key>
+	<string>https://shunel-e543b.firebaseio.com</string>
+</dict>
+</plist>
